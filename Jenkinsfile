@@ -47,9 +47,6 @@ stage("Jar Publish") {
                      echo '<--------------- Jar Publish Ended --------------->'  
              }
         }   
-    }
-
-
-
-}
+    }  
+ }
 }
